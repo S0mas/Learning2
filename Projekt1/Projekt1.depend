@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1431304618 source:/home/mariusz/IdeaProjects/Somas/codeBlocks/Projekt1/main.cpp
+	<iostream>
+	"LiczbaHex.h"
+	<string>
+
+1431304770 /home/mariusz/IdeaProjects/Somas/codeBlocks/Projekt1/include/LiczbaHex.h
+	<string>
+
+1430179131 source:/home/mariusz/IdeaProjects/Somas/codeBlocks/Projekt1/src/LiczbaHex.cpp
+	"LiczbaHex.h"
+

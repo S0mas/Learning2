@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1430263107 source:/home/mariusz/IdeaProjects/Somas/codeBlocks/Punkt kolo kula/main.cpp
+	"Kula.h"
+
+1430263071 source:/home/mariusz/IdeaProjects/Somas/codeBlocks/Punkt kolo kula/src/Kolo.cpp
+	"Kolo.h"
+
+1430262204 /home/mariusz/IdeaProjects/Somas/codeBlocks/Punkt kolo kula/include/Kolo.h
+	"Punkt.h"
+
+1430263078 source:/home/mariusz/IdeaProjects/Somas/codeBlocks/Punkt kolo kula/src/Kula.cpp
+	"Kula.h"
+
+1430262204 /home/mariusz/IdeaProjects/Somas/codeBlocks/Punkt kolo kula/include/Kula.h
+	"Kolo.h"
+
+1430262204 /home/mariusz/IdeaProjects/Somas/codeBlocks/Punkt kolo kula/include/Punkt.h
+	"Includy.h"
+
+1430263194 source:/home/mariusz/IdeaProjects/Somas/codeBlocks/Punkt kolo kula/src/Punkt.cpp
+	"Punkt.h"
+
+1430261902 source:/home/mariusz/IdeaProjects/Somas/codeBlocks/Punkt kolo kula/src/Includy.cpp
+	"Includy.h"
+
+1430262048 /home/mariusz/IdeaProjects/Somas/codeBlocks/Punkt kolo kula/include/Includy.h
+	<string>
+	<iostream>
+	<math.h>
+
